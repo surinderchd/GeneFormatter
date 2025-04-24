@@ -1,0 +1,6 @@
+Package: GeneFormatter
+Title: Format Gene Name Lists
+Version: 0.1.0
+Author: Your Name
+Description: Cleans and formats gene name strings into a ready-to-use format.
+License: MIT
