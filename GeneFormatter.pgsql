@@ -1,7 +1,7 @@
 GeneFormatter/
 ├── R/
-│   └── gene_formatter.R   <- This is your function
-├── DESCRIPTION             <- Info about your package
+│   └── gene_formatter.R   <- This is function
+├── DESCRIPTION             <- Info about package
 ├── NAMESPACE               <- Tells R which functions to share
 ├── app/
-│   └── app.R               <- Your Shiny app
+│   └── app.R               <- Shiny app
